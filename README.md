@@ -1,2 +1,1 @@
-# DENG_repo1
-Repo for NGSA II + MC Simulation R&amp;D Portfolio optimizer
+https://colab.research.google.com/github/albea47/DENG_repo1/blob/main/rd_portfolio_nsga2_py.ipynb
